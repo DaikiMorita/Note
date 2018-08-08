@@ -4,11 +4,10 @@
 # Augest
 
 ## 1st-12th: Technical Research
-###DoD
-We have selected technologies for FE, BE, DB, CI/CD, Task Management, Communication Tool.
+DoD: We have selected technologies for FE, BE, DB, CI/CD, Task Management, Communication Tool.
 
 ## 13th-31th: Prototype Design
-###DoD
+DoD:
 We have had a graphic design drawn in paper for our project.
 The design includes all features that are thought to be necessary at the time.
 We two have common view about the features at the time.
