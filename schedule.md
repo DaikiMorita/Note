@@ -2,6 +2,8 @@
 
 ## 15th-31th: rough idea
 
+———————————————————
+
 # Augest
 
 ## 1st-12th: technical research
